@@ -2,10 +2,10 @@ name: CoreProtect
 main: net.coreprotect.CoreProtect
 version: ${project.version}
 branch: ${project.branch}
-api-version: 1.16
+api-version: 26.2
 folia-supported: true
 website: http://coreprotect.net
-author: Intelli
+author: Intelli (Fork by JonnyTOP)
 softdepend: [WorldEdit]
 description: >
              Provides block protection for your server.
